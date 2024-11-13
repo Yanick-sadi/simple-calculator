@@ -1,4 +1,5 @@
-![CalculatingNumbersGIF](https://github.com/user-attachments/assets/10a98ff2-da48-40c1-86cd-6ecb5777d8d1)# Simple Calculator 
+# Simple Calculator
+![CalculatingNumbersGIF](https://github.com/user-attachments/assets/10a98ff2-da48-40c1-86cd-6ecb5777d8d1) 
 
 
 This is a basic calculator built with HTML, CSS, and JavaScript.
